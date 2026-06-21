@@ -18,4 +18,4 @@ fastfetch
 ## Step 6: Voila!
 You have successfully installed simplinfo for fastfetch!
 
-<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87](https://github.com/justaguy1091-bit/simplinfo-for-fastfetch/blob/main/simplinfo%20for%20fastfetch.png" />
+<img width="1195" height="667" alt="image" src="https://raw.githubusercontent.com/justaguy1091-bit/simplinfo-for-fastfetch/refs/heads/main/simplinfo%20for%20fastfetch.png" />
