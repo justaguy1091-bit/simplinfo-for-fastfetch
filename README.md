@@ -18,4 +18,4 @@ fastfetch
 ## Step 6: Voila!
 You have successfully installed simplinfo for fastfetch!
 
-![image alt]([https://github.com/justaguy1091-bit/simplinfo-for-fastfetch/blob/016ac10a0aff58d3e9438a8d34dfd986f7a53339/simplinfo%20for%20fastfetch.png](https://github.com/justaguy1091-bit/simplinfo-for-fastfetch/blob/63340513cb577811b081b28035507ccbc5e1f798/Simplinfo%20for%20Fastfetch.png))
+![image alt](https://github.com/justaguy1091-bit/simplinfo-for-fastfetch/blob/0ce2d4142c82170d4a2a5eb22e93a04e41001708/Simplinfo%20for%20Fastfetch.png)
