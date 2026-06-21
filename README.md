@@ -17,3 +17,5 @@ fastfetch
 
 ## Step 6: Voila!
 You have successfully installed simplinfo for fastfetch!
+
+https://github.com/justaguy1091-bit/simplinfo-for-fastfetch/blob/main/simplinfo%20for%20fastfetch.png
