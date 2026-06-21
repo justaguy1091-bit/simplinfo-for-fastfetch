@@ -1,0 +1,58 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/master/doc/json_schema.json",
+  "logo": {
+   "type": "small",
+   "padding":{
+   "top":1,
+   "left":1,
+   }
+  },
+  "modules": [
+   "title",
+    "break",
+   {
+    "type": "os",
+    "key": "Distro",
+    "keyColor": "31",
+   },
+   {
+    "type": "kernel",
+    "key": "Kernel",
+    "keyColor": "38;5;208",
+   },
+   {
+    "type": "de",
+    "key": "Desktop Enviornment",
+    "keyColor": "33",
+   },
+   {
+    "type": "host",
+    "key": "Device",
+    "keyColor": "32",
+   },
+   {
+    "type": "cpu",
+    "key": "CPU",
+    "keyColor": "36",
+   },
+   {
+    "type": "gpu",
+    "key": "GPU",
+    "keyColor": "34",
+   },
+   {
+    "type": "memory",
+    "key": "RAM",
+    "keyColor": "35",
+   },
+   {
+    "type": "custom",
+    "key": "THE Best Anime",
+    "keyColor": "90",
+    "format": "Ganbare Nakamura-kun!!",
+    "outputColor": "0;1",
+   },
+    "break",
+    "colors"
+   ]
+}
